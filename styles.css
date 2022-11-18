@@ -1,5 +1,5 @@
 body{
-    background-color: #7777A2;
+    background-color: #424242;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 .hjul{
@@ -8,6 +8,14 @@ body{
 }
 h1{
     font-size: 5rem;
-    color: #fff;
+    color: rgb(255, 255, 255);
     text-align: center;
+}
+h2{
+    color: white;
+}
+
+.clock{
+text-align: center;
+font-size: 5rem;
 }
